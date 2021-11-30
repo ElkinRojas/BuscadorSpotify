@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yCur9aDbQsdZ2W2EaIybgjYQcpX9AJpxzwYmHMzAvkVBQUXivRo+ZwIBJK/3nBaBlqulo36ASXKEHkL6jhVYhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elkin\\source\\repos\\SpotifySearch\\SpotifySearch\\SpotifySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elkin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Elkin\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
